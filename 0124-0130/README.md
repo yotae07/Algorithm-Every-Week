@@ -43,7 +43,15 @@ C 0 0 3 0 0
 
 
 # 민호님
-- 문제 주소 : [백준 123번](https://www.naver.com)
+- 문제 주소 : [2022 KAKAO BLIND RECRUITMENT 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 - 접근 방법
 ```text
+귀찮아서 대충쓰고 나중에 수정할게여^^
+
+대충 설명하자면, 유저마다
+- 내가 신고한 유저 리스트
+- 내가 신고 당한 횟수
+- 마지막에 결과값 출력을 위한 result
+
+이렇게 값을 가지고 문제를 풀려고 생각했음.
 ```
