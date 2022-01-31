@@ -16,3 +16,12 @@
 4. 그러면 신기하게도 실제 Repo에 함께 PR이 날라옴.
 5. 정리하자면, Local에서 작업 후 Forked Repo(origin)에 PR을 날리면 Fork & 실제 Repo(upstream)에 PR이 날라옴.
 6. Self Merge ㄱㅊㄱㅊ
+
+## Merge 후 Branch 삭제하기
+1. `git branch -D {브랜치 명}` 으로 Local에 존재하는 브랜치 삭제.
+2. `git push origin --delete {브랜치 명}` 으로 Remote에 존재하는 브랜치 삭제.
+<br>(여기서의 Remote는 Fork 된 Repo에 존재하는 브랜치)
+
+## 참고자료
+1. [Fork한 저장소를 원래 저장소의 최신 커밋 내역으로 바꾸기](https://chanhuiseok.github.io/posts/git-2/)
+2. [PR 날리기 / Contribution 하기](https://chanhuiseok.github.io/posts/git-3/)
