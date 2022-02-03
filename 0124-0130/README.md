@@ -58,11 +58,13 @@
 
 # 호근님
 
--   문제 주소 : [백준 123번](https://www.naver.com)
+-   문제 주소 : [나머지가 1이 되는 수 찾기
+    ](https://programmers.co.kr/learn/courses/30/lessons/87389?language=javascript)
 -   접근 방법
 
-```text
-
+```
+% -> 나머지를 구하는 연산을 이용하여
+2부터 반복문을 n번까지 돌면서 나머지가 1이 나오는 값을 바로 리턴
 ```
 
 # 태성님
