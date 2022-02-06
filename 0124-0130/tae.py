@@ -16,3 +16,4 @@ def common_str(str1: str, str2: str) -> int:
             result = max(dp[s1][s2], result)
 
     return result
+
