@@ -192,11 +192,11 @@
 
 # 호근님
 
--   문제 주소 : []()
--   접근 방법
-
+- 문제 주소 : [프로그래머스 - 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=javascript)
+- 접근 방법
 ```
-
+반복문으로 3의 나머지를 배열어 push 한다음
+나머지들이 배열을 reduce 함수를 이용해 10진법으로 변환해줌
 ```
 
 # 태성님
