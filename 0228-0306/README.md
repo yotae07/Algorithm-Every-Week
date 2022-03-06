@@ -105,11 +105,13 @@ if(newArray[i][j] > Math.max(newArray[i-1][j],newArray[i][j+1],newArray[i+1][j],
 
 # 태성님
 
--   문제 주소 :
+-   문제 주소 : [프로그래머스 - 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=python3)
 -   접근 방법
 
 ```text
-
+간단하게 캐시 히트가 되면 캐시에서 꺼내고 아니면 캐쉬에 넣고 호출하는 것을 물어보는 문제이다.
+캐시 교체 알고리즘을 LRU를 사용했다 따라서 캐시에 없으면 넣으면 되고 캐시 용량이 차면 먼저들어온 데이터를 삭제하고 데이터를 넣으면된다.
+또한 캐시 히트가 되면 히트된 캐시를 가장 늦게 들어온 위치로 옮기면 된다.
 ```
 
 # 민호님
