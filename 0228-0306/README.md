@@ -116,8 +116,8 @@ if(newArray[i][j] > Math.max(newArray[i-1][j],newArray[i][j+1],newArray[i+1][j],
 
 # 민호님
 
--   문제 주소 :
--   접근 방법
+- 문제 주소 : 너무 많음 ㅜ
+- 접근 방법
 
 ```text
 
