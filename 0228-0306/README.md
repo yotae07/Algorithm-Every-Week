@@ -96,11 +96,11 @@ if(newArray[i][j] > Math.max(newArray[i-1][j],newArray[i][j+1],newArray[i+1][j],
 
 # 호근님
 
--   문제 주소 : []()
+-   문제 주소 : [프로그래머스 - 없는 숫자 구하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 -   접근 방법
 
-```text
-
+```
+0에서 9까지 반복문에서 해당 배열에 없는 숫자만 더해줌
 ```
 
 # 태성님
