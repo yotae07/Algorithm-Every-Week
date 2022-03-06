@@ -21,3 +21,4 @@ def solution(s):
         answer.append(word)
 
     return ' '.join(answer)
+
