@@ -17,7 +17,11 @@
 ```
 
 # 민호님
-- 문제 주소 : mino.py 참고
+- 문제 주소
+  - [백준 - 2739번](https://www.acmicpc.net/problem/2739)
+  - [백준 - 2741번](https://www.acmicpc.net/problem/2741)
+  - [백준 - 2742번](https://www.acmicpc.net/problem/2742)
+  - [백준 - 2908번](https://www.acmicpc.net/problem/2908)
 - 접근 방법
 ```text
 -
