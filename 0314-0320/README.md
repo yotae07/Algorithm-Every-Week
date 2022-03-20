@@ -51,11 +51,12 @@
 # 호근님
 
 -   문제 주소
-    -   []()
+    -   [내적 구하기](https://programmers.co.kr/learn/courses/30/lessons/70128?language=javascript)
 -   접근 방법
 
-```text
-
+```
+너무 쉬움...
+reduce 함수 이용
 ```
 
 # 태성님
