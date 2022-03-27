@@ -7,10 +7,15 @@
 # 호근님
 
 -   문제 주소
-    -   []()
+    -   [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
+    -   [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=javascript)
 -   접근 방법
 
-```text
+```
+1. 음양 더하기
+    - 더해야할 숫자 배열을 reduce 함수를 이용하여, 인덱스를 통해 음양 값을 구하여 더해줌
+2. 폰켓몬
+    - Set을 이용하여, 배열 중 서로 다른 값의 배열을 구한 뒤 slice 함수로 숫자 배열 길이의 1/2 만큼 잘라 해당 배열의 길이를 구함
 
 ```
 
