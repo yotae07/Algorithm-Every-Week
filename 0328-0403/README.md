@@ -1,29 +1,37 @@
 # 병수님
 
--   문제 주소 및 접근방법
-    -   [문자열 압축](https://dev-soo-log.tistory.com/9)
-    -   [자리수 합](https://dev-soo-log.tistory.com/10?category=1015996)
-    -   [뒤집은 소수](https://dev-soo-log.tistory.com/11?category=1015996)
+- 문제 주소 및 접근방법
+  - [문자열 압축](https://dev-soo-log.tistory.com/9)
+  - [자리수 합](https://dev-soo-log.tistory.com/10?category=1015996)
+  - [뒤집은 소수](https://dev-soo-log.tistory.com/11?category=1015996)
 
 # 호근님
 
--   문제 주소
+- 문제 주소
 
-    -   []()
+  - [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 
--   접근 방법
+- 접근 방법
 
-```text
+```
+영단어를 배열에 넣고
+주어진 문자를 반복문을 통하여
+숫자일 경우 숫자 기억,
+영단어일 경우 영단어를 초기값이 빈스트링이였던 변수에 더 한후
+더해진 변수가 영단어 배열에 일치하는 값이 있을경우
+해당 인덱스를 기억하고 변수를 빈스트링으로 초기화
 
+위 반복문을 통해
+구해진 인덱스와 숫자를 순서대로 나열함
 ```
 
 # 태성님
 
--   문제 주소
+- 문제 주소
 
-    -   [프로그래머스 - 괄효 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+  - [프로그래머스 - 괄효 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
--   접근 방법
+- 접근 방법
 
 ```text
 특이하게 문제에 알고리즘을 단계별로 설명해주고 있다.
@@ -50,5 +58,7 @@
   - [백준 - 11399번](https://www.acmicpc.net/problem/11399)
   - [백준 - 15552번](https://www.acmicpc.net/problem/15552)
 - 접근 방법
+
 ```text
+
 ```
