@@ -42,13 +42,13 @@
 # 민호님
 
 - 문제 주소
-  - [백준 - 1026번](https://www.acmicpc.net/problem/1032)
-  - [백준 - 1715번](https://www.acmicpc.net/problem/1076)
-  - [백준 - 1913번](https://www.acmicpc.net/problem/1181)
-  - [백준 - 11022번](https://www.acmicpc.net/problem/1259)
-  - [백준 - 11047번](https://www.acmicpc.net/problem/1459)
-  - [백준 - 11399번](https://www.acmicpc.net/problem/2869)
-  - [백준 - 15552번](https://www.acmicpc.net/problem/10162)
+  - [백준 - 1026번](https://www.acmicpc.net/problem/1026)
+  - [백준 - 1715번](https://www.acmicpc.net/problem/1715)
+  - [백준 - 1931번](https://www.acmicpc.net/problem/1931)
+  - [백준 - 11022번](https://www.acmicpc.net/problem/11022)
+  - [백준 - 11047번](https://www.acmicpc.net/problem/11047)
+  - [백준 - 11399번](https://www.acmicpc.net/problem/11399)
+  - [백준 - 15552번](https://www.acmicpc.net/problem/15552)
 - 접근 방법
 ```text
 ```
