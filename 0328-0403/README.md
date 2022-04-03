@@ -1,29 +1,30 @@
 # 병수님
 
-- 문제 주소
-    - []()
-
-- 접근 방법
-```text
-
-```
+-   문제 주소 및 접근방법
+    -   [문자열 압축](https://dev-soo-log.tistory.com/9)
+    -   [자리수 합](https://dev-soo-log.tistory.com/10?category=1015996)
+    -   [뒤집은 소수](https://dev-soo-log.tistory.com/11?category=1015996)
 
 # 호근님
 
-- 문제 주소
-    - []()
+-   문제 주소
 
-- 접근 방법
+    -   []()
+
+-   접근 방법
+
 ```text
 
 ```
 
 # 태성님
 
-- 문제 주소
-    - [프로그래머스 - 괄효 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+-   문제 주소
 
-- 접근 방법
+    -   [프로그래머스 - 괄효 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+
+-   접근 방법
+
 ```text
 특이하게 문제에 알고리즘을 단계별로 설명해주고 있다.
 하지만 친절하게 설명되어있진 않아서 꼽십으면서 해석해봐야되는 문제이다.
@@ -40,10 +41,12 @@
 
 # 민호님
 
-- 문제 주소
-    - []()
+-   문제 주소
 
-- 접근 방법
+    -   []()
+
+-   접근 방법
+
 ```text
 
 ```
