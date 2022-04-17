@@ -1,7 +1,7 @@
 # 병수님
 
--   문제 주소 및 접근방법
-    -   [k번째 큰 수](https://dev-soo-log.tistory.com/15)
+- 문제 주소 및 접근방법
+  - [k번째 큰 수](https://dev-soo-log.tistory.com/15)
 
 ```text
  1. 접근과정
@@ -14,17 +14,19 @@
 
 # 호근님
 
--   문제 주소 및 접근방법
-    -   []()
+- 문제 주소 및 접근방법
+  - [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
-```text
-
+```
+최고 순위: 7 - 0을 포함한 정답과 일치하는 숫자의 개수
+최저 순위: 7 - 0을 포함하지 않고 일치하는 숫자의 개수
+1개 맞을때와 모두 틀렸을때는 6위 이므로 정답개수가 0일 경우 1로 치환해서 빼줌
 ```
 
 # 태성님
 
--   문제 주소 및 접근방법
-    -   [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
+- 문제 주소 및 접근방법
+  - [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 
 ```text
 처음에 규칙을 찾지 못해 해매었다.
@@ -37,8 +39,8 @@
 
 # 민호님
 
--   문제 주소 및 접근방법
-    -   []()
+- 문제 주소 및 접근방법
+  - []()
 
 ```text
 
