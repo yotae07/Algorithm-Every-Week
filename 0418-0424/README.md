@@ -42,9 +42,9 @@ sort 함수를 쓸 경우 n 개를 sort 한가면 nlogn의 시간 복잡도를 �
 
 # 민호님
 
--   문제 주소 및 접근방법
-    -   []()
+- 문제 주소 및 접근방법
+  - [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
 
 ```text
-
+원 배열과 소팅된 배열을 비교해가며 다르면 카운트
 ```
