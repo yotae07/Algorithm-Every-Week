@@ -1,7 +1,7 @@
 # 병수님
 
--   문제 주소 및 접근방법
-    -   [공통원소 구하기](https://dev-soo-log.tistory.com/21)
+- 문제 주소 및 접근방법
+  - [공통원소 구하기](https://dev-soo-log.tistory.com/21)
 
 ```text
 1. 두 번의 반복문을 통해 같은 요소의 경우 푸쉬시키고 리턴 시 sort해준다.
@@ -11,17 +11,18 @@
 
 # 호근님
 
--   문제 주소 및 접근방법
-    -   []()
+- 문제 주소 및 접근방법
+  - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 
-```text
-
+```
+정규표현식을 이용한 풀이
+다른 사람 풀이를 확인하면 다 정규표현식으로 체크 할 수 있음
 ```
 
 # 태성님
 
--   문제 주소 및 접근방법
-    -   [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
+- 문제 주소 및 접근방법
+  - [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
 
 ```text
 3가지 케이스로 나뉘어서 구별하였다.
@@ -32,8 +33,8 @@
 
 # 민호님
 
--   문제 주소 및 접근방법
-    -   [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
+- 문제 주소 및 접근방법
+  - [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
 
 ```text
 태성님과 함께 풀었습니다. (각자)
