@@ -25,3 +25,5 @@
 ## 참고자료
 1. [Fork한 저장소를 원래 저장소의 최신 커밋 내역으로 바꾸기](https://chanhuiseok.github.io/posts/git-2/)
 2. [PR 날리기 / Contribution 하기](https://chanhuiseok.github.io/posts/git-3/)
+
+# 시즌1 마감! ~ 22.05.08
