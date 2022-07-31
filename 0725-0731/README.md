@@ -1,10 +1,11 @@
 # 병수님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [연속부분수열](https://dev-soo-log.tistory.com/38)
+  - [최대 매출](https://dev-soo-log.tistory.com/39)
 
 ```text
-
+블로그 참고
 ```
 
 # 호근님
