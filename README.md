@@ -27,3 +27,4 @@
 2. [PR 날리기 / Contribution 하기](https://chanhuiseok.github.io/posts/git-3/)
 
 # 시즌1 마감! ~ 22.05.08
+# 시즌2 시작! 22.07.25 ~
