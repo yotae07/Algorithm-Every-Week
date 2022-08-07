@@ -10,9 +10,11 @@
 # 호근님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)
 
-```text
+```
+uid 에 마지막으로 적용된 닉네임을 구한 뒤,
+filter, map 함수를 이용하여 적용된 닉네임으로 들어오고 나간 내용 출력
 
 ```
 
