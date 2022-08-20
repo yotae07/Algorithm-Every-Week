@@ -10,10 +10,12 @@
 # 호근님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript)
 
 ```text
-
+스택을 이용
+문자열을 처음 인덱스부터 마지막 인덱스까지 반복문을 돌면서
+스택에 문자열을 넣고 다음 문자열 값이 같으면 스택에서 pop을 이용하여 제거 하는 방법을 이용
 ```
 
 # 태성님
