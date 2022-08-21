@@ -33,8 +33,10 @@
 # 민호님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript)
 
 ```text
-
+set을 이용하여 풀려 했으나, 다음에 같은 숫자가 올 수 있음.
+그래서 그리디 방식 사용하였고, js에서는 순회를 할 수 있는 방법이 너무 많던데
+for (const A of As) {} 의 순회 방법을 사용
 ```
