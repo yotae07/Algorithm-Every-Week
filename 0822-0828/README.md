@@ -10,9 +10,12 @@
 # 호근님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=javascript)
 
-```text
+```
+재귀 함수를 이용
+문자열 안의 숫자로 만들 수 있는 모든 숫자를 만든 후 소수 일 경우, set 넣어주고
+set 의 숫자를 구함
 
 ```
 
