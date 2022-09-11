@@ -30,8 +30,8 @@
 # 민호님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [짝수와 홀수ㅋㅋㅋㅋㅋㅋㅋㅋㅋ](https://school.programmers.co.kr/learn/courses/30/lessons/12937)
 
 ```text
-
+후.. 부끄럽다..
 ```
