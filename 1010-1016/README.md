@@ -15,10 +15,10 @@
 # 호근님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=javascript)
 
 ```text
-
+반복문을 이용하여 개수 구하기
 ```
 
 # 태성님
